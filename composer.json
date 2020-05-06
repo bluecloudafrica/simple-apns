@@ -1,6 +1,6 @@
 {
     "name": "bluecloud/simple-apns",
-    "description": "Laravel packages for sending notifications to ios devices via Apple Push Notification Service",
+    "description": "Laravel package for sending notifications to ios devices via Apple Push Notification Service",
     "type": "library",
     "require": {
         "edamov/pushok": "^0.11.1"

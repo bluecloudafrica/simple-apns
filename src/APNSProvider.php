@@ -11,7 +11,7 @@ class APNSProvider extends ServiceProvider
     public function boot()
     {
        $this->publishes([
-           __DIR__.'./config/apns.php' => config_path("apns.php")
+           __DIR__.'/config/apns.php' => config_path("apns.php")
        ]);
     }
 
